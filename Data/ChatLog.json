@@ -1,0 +1,442 @@
+[
+    {
+        "role": "system",
+        "content": "Please use this real-time information if needed,\nDay: Monday\nDate: 31\nMonth: March\nYear: 2025\nTime: 20 hours :55 minutes :54 seconds.\n"
+    },
+    {
+        "role": "system",
+        "content": "Please use this real-time information if needed,\nDay: Monday\nDate: 31\nMonth: March\nYear: 2025\nTime: 20 hours :55 minutes :39 seconds.\n"
+    },
+    {
+        "role": "system",
+        "content": "Please use this real-time information if needed,\nDay: Sunday\nDate: 30\nMonth: March\nYear: 2025\nTime: 18 hours :07 minutes :55 seconds.\n"
+    },
+    {
+        "role": "system",
+        "content": "Please use this real-time information if needed,\nDay: Tuesday\nDate: 25\nMonth: March\nYear: 2025\nTime: 09 hours :22 minutes :18 seconds.\n"
+    },
+    {
+        "role": "system",
+        "content": "Please use this real-time information if needed,\nDay: Tuesday\nDate: 25\nMonth: March\nYear: 2025\nTime: 09 hours :21 minutes :52 seconds.\n"
+    },
+    {
+        "role": "system",
+        "content": "Please use this real-time information if needed,\nDay: Tuesday\nDate: 25\nMonth: March\nYear: 2025\nTime: 09 hours :21 minutes :44 seconds.\n"
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Vedant! It's nice to meet you. How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "who is ms dhoni"
+    },
+    {
+        "role": "assistant",
+        "content": "Mahendra Singh Dhoni, commonly known as MS Dhoni, is a former Indian international cricketer who served as the captain of the Indian national team in limited-overs formats from 2007 to 2016 and in Test cricket from 2008 to 2014."
+    },
+    {
+        "role": "user",
+        "content": "best team in ipl"
+    },
+    {
+        "role": "assistant",
+        "content": "Mumbai Indians is the most successful team in the Indian Premier League (IPL), having won the title five times: 2013, 2015, 2017, 2019, and 2020."
+    },
+    {
+        "role": "user",
+        "content": "best indian capptian"
+    },
+    {
+        "role": "assistant",
+        "content": "According to various cricket experts and fans, Mahendra Singh Dhoni is often regarded as one of the best captains in Indian cricket history."
+    },
+    {
+        "role": "user",
+        "content": "finn balor?"
+    },
+    {
+        "role": "assistant",
+        "content": "Finn B\u00e1lor is an Irish professional wrestler currently signed to WWE, performing on the NXT brand. He is a two-time NXT Champion and a former WWE Intercontinental Champion."
+    },
+    {
+        "role": "user",
+        "content": "remember my fav player is ms dhoni "
+    },
+    {
+        "role": "assistant",
+        "content": "I've made a note of it, Vedant! Your favorite player is the legendary MS Dhoni."
+    },
+    {
+        "role": "user",
+        "content": "who is my fav player"
+    },
+    {
+        "role": "assistant",
+        "content": "Your favorite player is MS Dhoni!"
+    },
+    {
+        "role": "user",
+        "content": "whats the time"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm not tracking time. If you need to know the current time, I can suggest you check your device or a reliable time-keeping source."
+    },
+    {
+        "role": "user",
+        "content": "whats the time"
+    },
+    {
+        "role": "assistant",
+        "content": "It's 09 hours, 21 minutes, and 44 seconds."
+    },
+    {
+        "role": "user",
+        "content": "what is the date"
+    },
+    {
+        "role": "assistant",
+        "content": "The date is March 25, 2025."
+    },
+    {
+        "role": "user",
+        "content": "how many days left for new year"
+    },
+    {
+        "role": "assistant",
+        "content": "As of March 25, 2025, there are 280 days left until New Year's Day (January 1, 2026)."
+    },
+    {
+        "role": "user",
+        "content": "what is stock prize of tata motors"
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "user",
+        "content": "who is ms dhoni"
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "user",
+        "content": "cureent stock prize of tata motors"
+    },
+    {
+        "role": "assistant",
+        "content": "As of my knowledge cutoff, the current stock price of Tata Motors is \u20b9693.00."
+    },
+    {
+        "role": "user",
+        "content": "what is the current stock prize of tata motors"
+    },
+    {
+        "role": "assistant",
+        "content": "The current stock price of Tata Motors is \u20b9693.00."
+    },
+    {
+        "role": "user",
+        "content": "who is ms dhoni"
+    },
+    {
+        "role": "assistant",
+        "content": "Mahendra Singh Dhoni is an Indian professional cricketer who plays as a right-handed batter and a wicket-keeper. Widely regarded as one of the most prolific cricketers in Indian cricket history, he has led the Indian national team to numerous victories and has been one of the most successful captains in Indian cricket."
+    },
+    {
+        "role": "user",
+        "content": "who is thala"
+    },
+    {
+        "role": "assistant",
+        "content": "\"Thala\" is a Tamil word that means \"head\" or \"leader\". In the context of Indian cricket, MS Dhoni is often referred to as \"Thala\" by his fans, particularly in Chennai, where he has played for the Chennai Super Kings (CSK) in the Indian Premier League (IPL)."
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Vedant!"
+    },
+    {
+        "role": "user",
+        "content": "who are u"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Jarvis, your highly advanced AI assistant!"
+    },
+    {
+        "role": "user",
+        "content": "who is ms dhoni"
+    },
+    {
+        "role": "assistant",
+        "content": "MS Dhoni is your favorite player, Vedant! He's a former Indian international cricketer who served as the captain of the Indian national team in limited-overs formats from 2007 to 2016 and in Test cricket from 2008 to 2014."
+    },
+    {
+        "role": "user",
+        "content": "what is the stock prize of tata motors"
+    },
+    {
+        "role": "assistant",
+        "content": "The current stock price of Tata Motors is \u20b9693.00."
+    },
+    {
+        "role": "user",
+        "content": "current time "
+    },
+    {
+        "role": "assistant",
+        "content": "The current time is 09 hours, 21 minutes, and 44 seconds."
+    },
+    {
+        "role": "user",
+        "content": "current day and date "
+    },
+    {
+        "role": "assistant",
+        "content": "The current day is Tuesday, and the date is March 25, 2025."
+    },
+    {
+        "role": "user",
+        "content": "best indian captain"
+    },
+    {
+        "role": "assistant",
+        "content": "According to various cricket experts and fans, Mahendra Singh Dhoni is often regarded as one of the best captains in Indian cricket history."
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Vedant!"
+    },
+    {
+        "role": "user",
+        "content": "What's the time now?"
+    },
+    {
+        "role": "assistant",
+        "content": "The current time is 18 hours, 07 minutes, and 55 seconds."
+    },
+    {
+        "role": "user",
+        "content": "What is the capital of india?"
+    },
+    {
+        "role": "assistant",
+        "content": "The capital of India is New Delhi."
+    },
+    {
+        "role": "user",
+        "content": "Which festival is tomorrow?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the information I have, tomorrow is March 31, and the festivals that are celebrated on that day are National Crayon Day, National Prom Day, and National Clams on the Half Shell Day. However, if I look at the information from March 30, I see that there are some Hindu festivals celebrated today, which are Chaitra Navratri, Ugadi, Chandra Darshan, Vasant Ritu, and Vasantha Navaratri Prarambham."
+    },
+    {
+        "role": "user",
+        "content": "Images of sachin tendulkar."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, you can find images of Sachin Tendulkar on various websites, including:\n\n1. Getty Images: 17,460 Sachin Tendulkar Photos & High Res Pictures\n2. Pinterest: 55 Sachin ideas | sachin tendulkar, cricket wallpapers, cricket\n3. Instagram: Sachin Tendulkar (@sachintendulkar) \u2022 Instagram photos and videos\n4. ESPNcricinfo Images: Sachin Tendulkar Photos | Image Gallery and Match Pictures\n\nYou can visit these websites to find a diverse selection of on-field and off-field photos of Sachin Tendulkar."
+    },
+    {
+        "role": "user",
+        "content": "Stock price of apple."
+    },
+    {
+        "role": "assistant",
+        "content": "The current stock price of Apple Inc. (AAPL) is:\n\n* Day's Open: $221.67\n* Closing Price: $217.90\n* Volume: 39.8M\n* Intraday High: $223.81\n* Intraday Low: $217.68"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Vedant!"
+    },
+    {
+        "role": "user",
+        "content": "Who are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Jarvis, your highly advanced AI assistant!"
+    },
+    {
+        "role": "user",
+        "content": "Current price of tata motors."
+    },
+    {
+        "role": "assistant",
+        "content": "The current stock price of Tata Motors is \u20b9671.85."
+    },
+    {
+        "role": "user",
+        "content": "Current time date and weather."
+    },
+    {
+        "role": "assistant",
+        "content": "The current time is 10 hours, 28 minutes, and 51 seconds. The date is Monday, March 31, 2025.\n\nAs for the weather, according to the information I have, the current weather in Mumbai is Haze, with a temperature of 81\u00b0F (27\u00b0C) and Warm conditions."
+    },
+    {
+        "role": "user",
+        "content": "Who is elon musk?"
+    },
+    {
+        "role": "assistant",
+        "content": "Elon Musk is a South African-born entrepreneur, inventor, and business magnate. He is the CEO and CTO of SpaceX, CEO and product architect of Tesla Inc., and co-founder of Neuralink and The Boring Company."
+    },
+    {
+        "role": "user",
+        "content": "Janudi images of tony stark."
+    },
+    {
+        "role": "assistant",
+        "content": "I think you meant \"Journey\" instead of \"Janudi\"! \n\nYou can find images of Tony Stark (a.k.a. Iron Man) from the Marvel Cinematic Universe on various websites, including:\n\n1. IMDb: Tony Stark / Iron Man (Character) - IMDb\n2. Pinterest: Tony Stark | iron man, tony stark, robert downey jr\n3. Getty Images: Tony Stark Photos and Premium High-Res Pictures - Getty Images\n4. Marvel.com: Iron Man | Marvel Cinematic Universe (MCU)\n\nThese websites have a vast collection of images featuring Tony Stark's character, played by Robert Downey Jr."
+    },
+    {
+        "role": "user",
+        "content": "Favourite actress shahrukh khan."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, Shah Rukh Khan's favorite actress is Juhi Chawla."
+    },
+    {
+        "role": "user",
+        "content": "Remember my favourite actor is shahrukh khan."
+    },
+    {
+        "role": "assistant",
+        "content": "I've made a note of it, Vedant! Your favorite actor is indeed Shah Rukh Khan."
+    },
+    {
+        "role": "user",
+        "content": "Remember my project guide ishana thakur."
+    },
+    {
+        "role": "assistant",
+        "content": "I've made a note of it, Vedant! Your project guide is Ishana Thakur."
+    },
+    {
+        "role": "user",
+        "content": "Bhushan thakur notice na thakur."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you are mentioning Bhushan Thakur, not Ishana Thakur. I'll make a note of it, Vedant!"
+    },
+    {
+        "role": "user",
+        "content": "Who is my project guide?"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize for the mistake earlier! According to our previous conversation, your project guide is Bhushan Thakur."
+    },
+    {
+        "role": "user",
+        "content": "It's bhushna thakur."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize for the typo! According to our previous conversation, your project guide is indeed Bhushna Thakur."
+    },
+    {
+        "role": "user",
+        "content": "Who is my favourite actor?"
+    },
+    {
+        "role": "assistant",
+        "content": "Your favorite actor is Shah Rukh Khan!"
+    },
+    {
+        "role": "user",
+        "content": "Remember my favourite singer is sonu nigam."
+    },
+    {
+        "role": "assistant",
+        "content": "I've made a note of it, Vedant! Your favorite singer is indeed Sonu Nigam."
+    },
+    {
+        "role": "user",
+        "content": "Who is my favourite cricketer?"
+    },
+    {
+        "role": "assistant",
+        "content": "Your favorite cricketer is MS Dhoni!"
+    },
+    {
+        "role": "user",
+        "content": "What's my name?"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Vedant Rai!"
+    },
+    {
+        "role": "user",
+        "content": "What time it is?"
+    },
+    {
+        "role": "assistant",
+        "content": "The current time is 20 hours, 55 minutes, and 39 seconds."
+    },
+    {
+        "role": "user",
+        "content": "What date is today?"
+    },
+    {
+        "role": "assistant",
+        "content": "The date today is March 31, 2025."
+    },
+    {
+        "role": "user",
+        "content": "Elon musk."
+    },
+    {
+        "role": "assistant",
+        "content": "Elon Musk is a businessman known for his key roles in Tesla, SpaceX, PayPal, OpenAI, and Twitter. Since 2025, he has been a senior advisor to United States president Donald Trump and the de facto head of the Department of Government."
+    },
+    {
+        "role": "user",
+        "content": "What is the current stock price of apple?"
+    },
+    {
+        "role": "assistant",
+        "content": "The current stock price of Apple Inc. (AAPL) is:\n\n* Current: $219.32\n* High: $325.00\n* View More..."
+    },
+    {
+        "role": "user",
+        "content": "Current stock price of reliance."
+    },
+    {
+        "role": "assistant",
+        "content": "The current stock price of Reliance Industries Limited is \u20b91,280.00."
+    },
+    {
+        "role": "user",
+        "content": "Current stock price of tata motors."
+    },
+    {
+        "role": "assistant",
+        "content": "The current stock price of Tata Motors Limited is \u20b9674.00."
+    }
+]

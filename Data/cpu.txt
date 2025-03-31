@@ -1,0 +1,32 @@
+ **Introduction to CPU**
+
+The Central Processing Unit (CPU), also known as the processor, is the brain of a computer. It is responsible for executing instructions, performing calculations, and controlling the flow of data within the system.
+
+**Components of a CPU:**
+
+1. **Control Unit (CU):** Retrieves and decodes instructions, manages data transfer, and controls the flow of data.
+2. **Arithmetic Logic Unit (ALU):** Performs arithmetic and logical operations, such as addition, subtraction, multiplication, and division.
+3. **Registers:** Small amounts of memory that store data temporarily while it is being processed.
+4. **Cache Memory:** A small, fast memory that stores frequently used data and instructions.
+
+**How a CPU Works:**
+
+1. **Fetch:** The CPU retrieves an instruction from memory.
+2. **Decode:** The CPU decodes the instruction, determining what operation needs to be performed.
+3. **Execute:** The CPU performs the required operation, using the ALU and registers as needed.
+4. **Store:** The CPU stores the results of the operation in memory or a register.
+
+**Types of CPUs:**
+
+1. **Single-Core CPU:** A single processing unit that executes one instruction at a time.
+2. **Multi-Core CPU:** Multiple processing units that can execute multiple instructions simultaneously.
+3. **GPU (Graphics Processing Unit):** A specialized CPU designed for graphics processing and machine learning.
+
+**CPU Performance Metrics:**
+
+1. **Clock Speed:** Measures the number of instructions a CPU can execute per second (measured in GHz).
+2. **Number of Cores:** The number of processing units within a CPU.
+3. **Cache Size:** The amount of cache memory available to the CPU.
+4. **Power Consumption:** The amount of power a CPU requires to operate.
+
+In conclusion, the CPU is a critical component of a computer system, responsible for executing instructions and controlling the flow of data. Understanding how a CPU works and its various components can help you appreciate the complexity and power of modern computing systems.

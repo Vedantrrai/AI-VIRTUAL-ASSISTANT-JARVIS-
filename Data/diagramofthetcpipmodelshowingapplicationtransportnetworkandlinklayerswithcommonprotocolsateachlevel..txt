@@ -1,0 +1,58 @@
+ Here is a diagram and explanation of the TCP/IP model, showing the Application, Transport, Network (also known as Internet), and Link layers, along with common protocols at each level:
+
+
+**TCP/IP Model Diagram:**
+
+```
+                                  +-------------------+
+                                  |  Application    |
+                                  |  Layer          |
+                                  +-------------------+
+                                            |
+                                            |  HTTP, FTP, SMTP, DNS, etc.
+                                            v
+                                  +-------------------+
+                                  |  Transport Layer  |
+                                  |  (TCP, UDP, SCTP)  |
+                                  +-------------------+
+                                            |
+                                            |  TCP, UDP, SCTP
+                                            v
+                                  +-------------------+
+                                  |  Network (Internet)|
+                                  |  Layer (IP, ICMP, IGMP)|
+                                  +-------------------+
+                                            |
+                                            |  IP, ICMP, IGMP
+                                            v
+                                  +-------------------+
+                                  |  Link Layer      |
+                                  |  (Ethernet, Wi-Fi, PPP)|
+                                  +-------------------+
+                                            |
+                                            |  Ethernet, Wi-Fi, PPP
+                                            v
+                                  +-------------------+
+                                  |  Physical Layer  |
+                                  +-------------------+
+```
+
+**Explanation of Each Layer:**
+
+1. **Application Layer:**
+	* Protocols: HTTP (Hypertext Transfer Protocol), FTP (File Transfer Protocol), SMTP (Simple Mail Transfer Protocol), DNS (Domain Name System), etc.
+	* Functions: Provides services to end-user applications, such as email, file transfer, and web browsing.
+2. **Transport Layer:**
+	* Protocols: TCP (Transmission Control Protocol), UDP (User Datagram Protocol), SCTP (Stream Control Transmission Protocol)
+	* Functions: Provides reliable data transfer between devices, including error detection and correction, and flow control.
+3. **Network (Internet) Layer:**
+	* Protocols: IP (Internet Protocol), ICMP (Internet Control Message Protocol), IGMP (Internet Group Management Protocol)
+	* Functions: Routes data between devices on different networks, using logical addressing (IP addresses).
+4. **Link Layer:**
+	* Protocols: Ethernet, Wi-Fi, PPP (Point-to-Point Protocol)
+	* Functions: Provides error-free transfer of data frames between two devices on the same network, using physical addressing (MAC addresses).
+5. **Physical Layer:**
+	* Protocols: None (physical layer is concerned with physical means of transmitting data)
+	* Functions: Defines the physical means of transmitting data between devices, such as cable specifications and wireless transmission.
+
+Note: The Physical Layer is not always considered part of the TCP/IP model, as it is more related to the hardware and physical infrastructure of the network. However, it is often included in diagrams to provide a complete picture of the networking stack.
